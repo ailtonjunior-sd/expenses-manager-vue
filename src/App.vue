@@ -19,7 +19,7 @@ import { RouterLink, RouterView } from 'vue-router'
 <style>
 html, body, #app {
     height: 100%;
-    background-color: rgb(230, 230, 230);
+    background-color: rgb(251, 251, 251);
 }
 </style>
 
